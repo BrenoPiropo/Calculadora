@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636356273 source:c:\users\breno\onedrive\Área de trabalho\uesc 2021.2\logica para programaçao\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
